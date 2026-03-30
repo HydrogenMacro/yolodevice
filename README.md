@@ -1,5 +1,9 @@
 # Yolodevice
 A macropad device with 6 keys and 1 knob, powered by a RP2040 using QMK. The design was inspired by the Sayodevice, but I removed the screen in favor of having more keys.
+## Usage
+Plug it into your computer with a USB C cable.
+Click the keys to output character inputs into your computer (the current keybind in the python file is configued for 1 key space, but you can change it by commenting it out or changing it in tue source code).
+Spin/click the rotary encoder to change volume/mute the audio.
 
 ## Showcase
 ![macropad](./images/IMG_1419.jpeg)
