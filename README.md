@@ -2,6 +2,7 @@
 A macropad device with 6 keys and 1 knob, powered by a RP2040 using QMK. The design was inspired by the Sayodevice, but I removed the screen in favor of having more keys.
 
 ## Showcase
+![macropad](./images/IMG_1419.jpeg)
 ### Schematic
 ![schematic](./images/schematic.png)
 ### PCB
